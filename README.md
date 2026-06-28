@@ -6,8 +6,8 @@ Small businesses often manage invoices, customer payments, cash flow, reports, G
 
 ## Team
 
-- Amit Sharma
-- Princy Gupta
+- Amit Sharma [NIU]
+- Princy Gupta [NSUT]
 
 ## Problem Statement
 
